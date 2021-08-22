@@ -1,0 +1,51 @@
+hola a todos, espero aprecien el esfuerzo nos tardamos mucho editando
+
+
+ <section class="fdb-block">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-6 col-lg-3">
+        <img alt="image" class="img-fluid" src="images/IMG-20210821-WA0204.jpg">
+      </div>
+
+      <div class="col-6 col-lg-3">
+        <img alt="image" class="img-fluid" src="images/IMG-20210821-WA0212.jpg"> 
+      </div>
+
+      <div class="col-12 col-lg-6 pt-3">
+        <p class="lead text-left">Ahora es tiempo de buscar la información que necesitaremos para filtrar nuestros datos en un Notebook /Colab de Google.
+Para este paso nos ayudamos del catálogo de Gwas, en este podremos encontrar tablas/listas de 
+            genes asociados a una enfermedad en específico. Buscaremos cuidadosamente el paquete que nos proporcione nuestra información y la descargaremos.
+</p>
+        <p class="lead text-left">Visualizacion del catalogo de GWAS. <a href="images/IMG-20210821-WA0204.jpg">[ver imagen]</a></p>
+        <p class="lead text-left">Como descargar el catalogo. <a href="images/IMG-20210821-WA0207.jpg">[ver imagen]</a></p>
+        <p class="lead text-left">Link de Gwas. <a href="https://www.ebi.ac.uk/gwas/home">[Crea...]</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+      
+          
+          
+      <section class="fdb-block">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-6 col-lg-3">
+        <img alt="image" class="img-fluid" src="images/drugs.jpg">
+      </div>
+
+      <div class="col-6 col-lg-3">
+        <img alt="image" class="img-fluid" src="images/H.jpg">
+      </div>
+
+      <div class="col-12 col-lg-6 pt-3">
+        <p class="lead text-left">De igual manera también descargamos los archivos que se nos proporcionaron durante las sesiones del club:
+            DrugBank - Combined Network.graphml y
+            HI_union.graphml
+</p>
+        <p class="lead text-left"> Link del archivo  DrugBank - Combined Network.graphml <a href="images/IMG-20210821-WA0172.jgp">[Crea]</a></p>
+          <p class="lead text-left">Link del archivo HI_union.graphml <a href="images/IMG-20210821-WA0173">[Crea]</a></p>
+      </div>
+    </div>
+  </div>
+</section>
